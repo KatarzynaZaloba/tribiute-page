@@ -9,6 +9,7 @@ line-height: 1.5;
 text-align: center;
 color: #333;
 margin: 0;
+
 }
 
 #main {
@@ -46,7 +47,7 @@ margin: 0 auto;
 }
 
 ul {
-    max-width: 500x;
+    max-width: 500px;
     margin: 0 auto 50px auto;
     text-align: left;
     line-height: 1.6;
